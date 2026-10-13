@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "slug": "emberwake-rebuilders",
+  "title": "Emberwake Rebuilders",
+  "engine": "Unity",
+  "projectPath": "unity-emberwake-rebuilders/Game",
+  "galleryRoot": "_Workspace",
+  "isConcept": false,
+  "status": "development-prototype-previews-pending",
+  "stages": [
+    {
+      "id": "frontier-chapter-1",
+      "title": "Chapter 1: A Hearth in Ruins",
+      "kind": "development-campaign-reference",
+      "managedBy": "frontier-workbench-v1",
+      "images": {},
+      "notes": [
+        "Sera finds the village preserved in embers. Ollin asks for relics with which to rebuild homes.",
+        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+      ],
+      "sourceEvidence": [
+        "unity-emberwake-rebuilders/ContentSource/campaign.json",
+        "unity-emberwake-rebuilders/Game/Assets/Frontier/Core/Chapters.cs",
+        "unity-emberwake-rebuilders/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    },
+    {
+      "id": "frontier-chapter-2",
+      "title": "Chapter 2: Stones with Names",
+      "kind": "development-campaign-reference",
+      "managedBy": "frontier-workbench-v1",
+      "images": {},
+      "notes": [
+        "Each recovered stone carries a name; Mira refuses to let repairs become another empty monument.",
+        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+      ],
+      "sourceEvidence": [
+        "unity-emberwake-rebuilders/ContentSource/campaign.json",
+        "unity-emberwake-rebuilders/Game/Assets/Frontier/Core/Chapters.cs",
+        "unity-emberwake-rebuilders/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    },
+    {
+      "id": "frontier-chapter-3",
+      "title": "Chapter 3: The Returning Light",
+      "kind": "development-campaign-reference",
+      "managedBy": "frontier-workbench-v1",
+      "images": {},
+      "notes": [
+        "The ember lord holds the last light. Returning it will give the settlement a future beyond the dungeon.",
+        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+      ],
+      "sourceEvidence": [
+        "unity-emberwake-rebuilders/ContentSource/campaign.json",
+        "unity-emberwake-rebuilders/Game/Assets/Frontier/Core/Chapters.cs",
+        "unity-emberwake-rebuilders/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    }
+  ],
+  "runtimeBoundary": "Native captures are references to the standalone development prototype. Workbench workshop edits are separate planning drafts until a runtime adapter is implemented. Physical input, cross-machine LAN, Windows/Linux and Steam release acceptance are tracked separately.",
+  "updated": "2026-10-13"
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "emberwake-rebuilders",
+  "title": "Emberwake Rebuilders",
+  "engine": "Unity",
+  "family": "Dungeon and settlement rebuilding",
+  "projectPath": "Game",
+  "gameType": "3d-game",
+  "description": "Recover guarded dungeon relics, defeat a guardian, and rebuild homes around a settlement hearth. Three-chapter development prototype; controller, multiplayer, platform and Steam release acceptance are tracked separately.",
+  "links": {
+    "repository": "https://github.com/securelyprogramming/unity-emberwake-rebuilders",
+    "websiteRepository": null,
+    "website": null,
+    "jira": null
+  },
+  "builder": {
+    "openScript": null,
+    "guide": "unity-emberwake-rebuilders/tools/StageBuilder/README.md"
+  },
+  "catalog": "unity-emberwake-rebuilders/tools/StageBuilder/stage-catalog.json"
+}

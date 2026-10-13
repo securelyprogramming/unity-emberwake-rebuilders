@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "emberwake-rebuilders",
+  "title": "Emberwake Rebuilders",
+  "mode": "emberwake-rebuilders",
+  "genre": "dungeon-rebuilding",
+  "brief": "Recover dungeon relics and spend them on homes, a clinic and the hearth of a damaged settlement.",
+  "seed": 323,
+  "difficulty": 1,
+  "repository": "https://github.com/securelyprogramming/unity-emberwake-rebuilders",
+  "folder": "unity-emberwake-rebuilders",
+  "engine": "Unity",
+  "engineVersion": "6000.6.0f1",
+  "project": "Game",
+  "targetPlatforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "storeTarget": "Steam premium PC",
+  "players": "1–4 LAN cooperative players; local solo campaign",
+  "accent": "#dd8b45",
+  "setting": "dungeon",
+  "enemy": "sentinel",
+  "cast": [
+    {
+      "name": "Sera Dawn",
+      "role": "relic seeker"
+    },
+    {
+      "name": "Ollin",
+      "role": "stonemason"
+    },
+    {
+      "name": "Mira",
+      "role": "hearth keeper"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "A Hearth in Ruins",
+      "story": "Sera finds the village preserved in embers. Ollin asks for relics with which to rebuild homes.",
+      "layoutSeed": 323
+    },
+    {
+      "number": 2,
+      "title": "Stones with Names",
+      "story": "Each recovered stone carries a name; Mira refuses to let repairs become another empty monument.",
+      "layoutSeed": 496
+    },
+    {
+      "number": 3,
+      "title": "The Returning Light",
+      "story": "The ember lord holds the last light. Returning it will give the settlement a future beyond the dungeon.",
+      "layoutSeed": 669
+    }
+  ],
+  "status": "development; build, gameplay, physical controller, multi-machine LAN and Steam release acceptance tracked separately",
+  "inspiration": "Original characters, names, story and code; genre references are design inspiration only."
+}
