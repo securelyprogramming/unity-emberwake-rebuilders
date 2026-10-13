@@ -15,16 +15,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-chapter1.png",
-          "bytes": 193795,
-          "sha256": "8773fd76cbea36b702bed4cf8ac3f3a04d442f6e61df8f7a56bbb858eedfc89d",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-chapter1.png",
+          "bytes": 210821,
+          "sha256": "60d3741cfb66474f1187141a26583d16e89848d1568ff91bc79c66320c12ad85",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Sera finds the village preserved in embers. Ollin asks for relics with which to rebuild homes.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter1, chapter 1, simulation tick 240.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter1, chapter 1, simulation tick 240.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -41,16 +41,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-chapter2.png",
-          "bytes": 201130,
-          "sha256": "7cd99fba1c79fa93ba282c4986ca94b3fdfcae93e101be2c616dd6dacafbd6c4",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-chapter2.png",
+          "bytes": 218297,
+          "sha256": "0dc8022d0cdea37c7e6289ccb4c08953cc5a29be84cf0097fe9912c0f3dee3d8",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Each recovered stone carries a name; Mira refuses to let repairs become another empty monument.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter2, chapter 2, simulation tick 242.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter2, chapter 2, simulation tick 242.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -67,16 +67,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-chapter3.png",
-          "bytes": 207072,
-          "sha256": "53ea384b76f83f19a78719d4f644dc2b3f9b30aba91da18f5736e98b5ee0c877",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-chapter3.png",
+          "bytes": 220085,
+          "sha256": "9d73795070d22c1f176c7fa2dd5c907030ed27928c3ae894f07c4e52341d0a24",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "The ember lord holds the last light. Returning it will give the settlement a future beyond the dungeon.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter3, chapter 3, simulation tick 242.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter3, chapter 3, simulation tick 242.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -93,16 +93,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-menu.png",
-          "bytes": 171506,
-          "sha256": "34e90b26dccffc4b51dda059116539344a3a58e4e04778e9aa48b43a3e2350bb",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-menu.png",
+          "bytes": 171340,
+          "sha256": "010a60b890f3ad0d5854c293fc5abc54387fbd31800513ee66c81466570f0d80",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind menu, chapter 1, simulation tick 0.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: menu, chapter 1, simulation tick 0.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -116,16 +116,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-story.png",
-          "bytes": 185671,
-          "sha256": "cc4c6f36a3bf65887d8bb94e173da1abbb103a73813a50137e75213c91e9ab64",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-story.png",
+          "bytes": 185692,
+          "sha256": "bc05cd7b8d3bb2f17ce980daca0187e579fd5f44e2526a3e151604b158ab76ab",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story, chapter 1, simulation tick 0.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story, chapter 1, simulation tick 0.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -139,16 +139,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-victory1.png",
-          "bytes": 207505,
-          "sha256": "c58241a96f700fc0ac3b4b04e59d22cc9df7bed3f21ddbcb2b9daf061cf848bf",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-victory1.png",
+          "bytes": 224794,
+          "sha256": "f6513f9090f09f3fd0eb9da83a90d5114e1372cbf05ecccf18d06022544673c2",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory1, chapter 1, simulation tick 420.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory1, chapter 1, simulation tick 420.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -162,16 +162,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-story2.png",
-          "bytes": 201524,
-          "sha256": "6ec378ca776dd1e0185b9dc11ca19aa9c73aa8e147e8b39de8dacb3d58143e35",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-story2.png",
+          "bytes": 201014,
+          "sha256": "288f4d83900b59ae2da6e69ca8f3945e5740b5abe7f2df040fb725bb6ebcadea",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story2, chapter 2, simulation tick 2.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story2, chapter 2, simulation tick 2.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -185,16 +185,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-victory2.png",
-          "bytes": 217332,
-          "sha256": "3482b41b1bf578326f65b15afff595868f2a721a57e83b09106d9155be0eea7c",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-victory2.png",
+          "bytes": 236345,
+          "sha256": "1532da8fb1613abe48498070226ce2217938d82a48a5c9815cf159bff187cd9e",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory2, chapter 2, simulation tick 500.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory2, chapter 2, simulation tick 500.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -208,16 +208,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-story3.png",
-          "bytes": 198770,
-          "sha256": "e0fda034b53f9578478dd62986cd7fb945a45edbd4d827ed1ff6470461926741",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-story3.png",
+          "bytes": 199362,
+          "sha256": "41f0f8d553c6b448b5d30c4c67f067a5b04d4dfffe9bf115a2d4dee8830728fa",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story3, chapter 3, simulation tick 2.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story3, chapter 3, simulation tick 2.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -231,16 +231,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-victory3.png",
-          "bytes": 227706,
-          "sha256": "ad6827b0351a107c3e459de78b13345e39d9a2d09006b343b26d004a901c2037",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-victory3.png",
+          "bytes": 244535,
+          "sha256": "ebdbbdd6278c60fff1494711bd72262d91dfc53e7a47c0d0e343a7669db56e81",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory3, chapter 3, simulation tick 652.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory3, chapter 3, simulation tick 652.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -254,16 +254,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/emberwake-rebuilders/2026-10-13/gameplay-finale.png",
-          "bytes": 194030,
-          "sha256": "60218fc176c184d703d18181ad2b8fef843dcd090e844ec3ffa6dc9fbeefb186",
+          "path": "Portfolio/Previews/polish/2026-10-13/emberwake-rebuilders/gameplay-finale.png",
+          "bytes": 194660,
+          "sha256": "188c9f4b84563a39ffe4f8aca5b618ce08c838956ac67a23187b85ad241bd336",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind finale, chapter 3, simulation tick 652.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: finale, chapter 3, simulation tick 652.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [

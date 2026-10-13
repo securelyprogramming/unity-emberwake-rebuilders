@@ -1,0 +1,69 @@
+{
+  "art": {
+    "accent": "#ffac77",
+    "kind": "original-vector",
+    "motif": "Rebuilding mallet and ember",
+    "provenance": "Repository-native SVG authored for this game; no paid source artwork.",
+    "sourceSha256": "ad4690c02c8ed463d6a5d57b7c93fb7d1988d57c28ae35d944ac0a4441111cf4"
+  },
+  "assets": {
+    "icon-128.png": {
+      "bytes": 17876,
+      "sha256": "b90225b91ca1ad7dff2628b23cf513c576672a5b15c883c489221a34e1317661"
+    },
+    "icon-16.png": {
+      "bytes": 873,
+      "sha256": "2f9a9e59dbed63c1a5d6469ed43ab9ccdcc00670c3d8bb7168d9d9444c625c77"
+    },
+    "icon-256.png": {
+      "bytes": 47774,
+      "sha256": "5b84ea1f10b24a2ceb7bb461c3847b04cf89d740202bf8b4eea9fb57a361b3e9"
+    },
+    "icon-32.png": {
+      "bytes": 2261,
+      "sha256": "75257b003d3cd20d5e3add28ddfce7055c441b68a4c143944bac0fe0232c5190"
+    },
+    "icon-512.png": {
+      "bytes": 124676,
+      "sha256": "b69948c37c0525a8e52b8b6db9d304f52ff03359165fa67072003b196c020899"
+    },
+    "icon-64.png": {
+      "bytes": 6666,
+      "sha256": "fd8568b800fa21b46d3b966e3e9363bbe235ccd0ca93826c7bc84c43c15d4c99"
+    },
+    "icon.bmp": {
+      "bytes": 196662,
+      "sha256": "0cc018fbdebd99ba47522586e107b2f8ea556349997b3af588877c785fff8f70"
+    },
+    "icon.icns": {
+      "bytes": 584043,
+      "sha256": "7d24a07e3137180b5b23c2d3a506f1a08572229422f3dd7dd62301765e8c5e93"
+    },
+    "icon.ico": {
+      "bytes": 82353,
+      "sha256": "6c5a8e6f650a2bbd0dce2f406d7452172e119cc24d4b24e6c8a9f0f05c67b59a"
+    },
+    "icon.png": {
+      "bytes": 243454,
+      "sha256": "beaecdb02c1603d7c626472969790bb8e19ccb36cbe5439cff708885afeaea9e"
+    },
+    "source.png": {
+      "bytes": 230273,
+      "sha256": "ad4690c02c8ed463d6a5d57b7c93fb7d1988d57c28ae35d944ac0a4441111cf4"
+    },
+    "source.svg": {
+      "bytes": 1514,
+      "sha256": "ee4c3573149a9291c0160e8a82a7f4e7ca4186cb19a508931ea19dbd2967902b"
+    }
+  },
+  "gameId": "emberwake-rebuilders",
+  "installs": [
+    {
+      "asset": "source.png",
+      "path": "Assets/Editor/Branding/GameAppIcon.png"
+    }
+  ],
+  "pipeline": "securelyprogramming/game-workbench/scripts/game-icons.py",
+  "schemaVersion": 1,
+  "scope": "Application icons only; store capsules and platform release certification are separate."
+}
