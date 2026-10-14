@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "emberwake-rebuilders",
+  "title": "Emberwake Rebuilders",
+  "genre": "dungeon-rebuilding",
+  "brief": "Recover dungeon relics and spend them on homes, a clinic and the hearth of a damaged settlement.",
+  "status": "development",
+  "runtimeFamily": "unity-frontier",
+  "world": {
+    "classification": "dungeon-settlement",
+    "configFile": "game-workbench.json",
+    "defaultMode": "authored",
+    "randomization": {
+      "workbench": "seeded-region-v1",
+      "runtime": "adapter-required; not established by authoring config",
+      "preserveAuthoredObjectives": true
+    },
+    "stageIds": [
+      "frontier-chapter-1",
+      "frontier-chapter-2",
+      "frontier-chapter-3",
+      "frontier-menu",
+      "frontier-story",
+      "frontier-victory1",
+      "frontier-story2",
+      "frontier-victory2",
+      "frontier-story3",
+      "frontier-victory3",
+      "frontier-finale"
+    ]
+  },
+  "characters": {
+    "player": {
+      "name": "Sera Dawn",
+      "role": "relic seeker",
+      "movementDesignTarget": "genre-specific 3D movement, collision and camera",
+      "nativeAcceptance": "required"
+    },
+    "npcs": [
+      {
+        "name": "Ollin",
+        "role": "stonemason",
+        "source": "ContentSource/campaign.json",
+        "movementAcceptance": "Verify role-appropriate idle, locomotion, pathfinding and interaction reach in native stages; authored cast alone does not prove runtime NPC presence.",
+        "interactionsAcceptance": "Verify dialogue, quest state and role-specific interactions without bypassing game economy."
+      },
+      {
+        "name": "Mira",
+        "role": "hearth keeper",
+        "source": "ContentSource/campaign.json",
+        "movementAcceptance": "Verify role-appropriate idle, locomotion, pathfinding and interaction reach in native stages; authored cast alone does not prove runtime NPC presence.",
+        "interactionsAcceptance": "Verify dialogue, quest state and role-specific interactions without bypassing game economy."
+      }
+    ],
+    "enemies": [
+      {
+        "archetype": "sentinel",
+        "acceptance": "Verify spawn rules, locomotion/navigation, combat, animation and rewards per stage."
+      }
+    ]
+  },
+  "story": {
+    "source": "ContentSource/campaign.json",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "A Hearth in Ruins",
+        "story": "Sera finds the village preserved in embers. Ollin asks for relics with which to rebuild homes.",
+        "layoutSeed": 323,
+        "acceptance": "native completion and save/reload required"
+      },
+      {
+        "number": 2,
+        "title": "Stones with Names",
+        "story": "Each recovered stone carries a name; Mira refuses to let repairs become another empty monument.",
+        "layoutSeed": 496,
+        "acceptance": "native completion and save/reload required"
+      },
+      {
+        "number": 3,
+        "title": "The Returning Light",
+        "story": "The ember lord holds the last light. Returning it will give the settlement a future beyond the dungeon.",
+        "layoutSeed": 669,
+        "acceptance": "native completion and save/reload required"
+      }
+    ],
+    "sideQuests": {
+      "status": "design and runtime acceptance required",
+      "requirements": [
+        "Separate optional quest state from main story gates",
+        "Verify NPC giver, prerequisites, rewards, persistence and multiplayer authority where applicable"
+      ]
+    }
+  },
+  "studioIntro": {
+    "enabled": true,
+    "creator": "ProgrammingSecurely",
+    "website": "https://programmingsecurely.com/",
+    "durationSeconds": 3,
+    "skippable": true,
+    "presentation": "Game title and creator credits over the actual scene when available; no fabricated gameplay video.",
+    "nativeAcceptance": "required"
+  },
+  "systems": {
+    "coreLoopSource": "Recover dungeon relics and spend them on homes, a clinic and the hearth of a damaged settlement.",
+    "worldRules": "Game-specific authored levels and optional seeded workshops; preserve runtime gameplay until an adapter is integrated.",
+    "playerControls": "Keyboard/mouse and controller navigation require native acceptance for this genre.",
+    "npcRules": "Verify cast presence, navigation, locomotion, interaction reach, dialogue and quest roles in native scenes.",
+    "progression": "Campaign gates, rewards, retries and save/reload must be tested per chapter.",
+    "sideQuests": "Optional quest chains must have explicit giver, prerequisites, state transitions, rewards and persistence."
+  },
+  "playtime": {
+    "campaignTargetMinutes": 180,
+    "measuredCampaignMinutes": null,
+    "freePlay": "Define genre-appropriate replay or free-play progression; not yet accepted",
+    "acceptance": "Measure normal play sessions; automated smoke duration and repeated captures do not establish playtime."
+  },
+  "assets": {
+    "policy": "Use compatible owned art for characters, buildings, weapons, animations, audio and menu presentation. Keep gameplay logic, controls, hitboxes and progression owned by the game.",
+    "candidateKeys": [
+      "item:449",
+      "item:467"
+    ],
+    "provenance": "Hash-pin selected original files, licence source and native references. Owned/downloaded/candidate is not proof of runtime integration."
+  },
+  "acceptance": {
+    "steamReady": false,
+    "multiplayerAdvertised": true,
+    "requiredChecks": [
+      "Every advertised story stage: start, objectives, victory/failure, retry, save/reload",
+      "Selected seed and alternate seeds: biome rules, sea exclusion, spawn clearance, routes and resource availability",
+      "Purchased characters/items: import, runtime reference, animation, collision and interaction",
+      "Menus: keyboard, mouse, physical controller, resolution and accessibility",
+      "Multiplayer if advertised: two machines on LAN, authority, disconnect/rejoin, persistence and progression",
+      "Measured playtime, performance, platform builds, distribution signing and Steam depot/release acceptance"
+    ],
+    "latestValidation": "Docs/ValidationReports; distinguish current native evidence from historical reports"
+  }
+}
